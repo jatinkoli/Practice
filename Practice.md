@@ -10,7 +10,7 @@ Snake Game | [.html] (https://github.com/jatinkoli/Practice/blob/master/HTML/Sna
 Program | Link
 -- | --
 Background generator | [.js] (https://github.com/jatinkoli/Practice/tree/master/Javascript/Background%20generator)
-Simple Calculator  | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Simple%20Calculator%20using%20HTML%2C%20CSS%2CJS)
+Simple Calculator  | [.js] (https://github.com/jatinkoli/Practice/tree/master/Javascript/Simple%20Calculator%20using%20HTML%2C%20CSS%2CJS)
 
 ## Virus
 Program | Link
