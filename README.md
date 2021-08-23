@@ -11,6 +11,7 @@ Program | Link
 -- | --
 Background generator | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Background%20generator)
 Simple Calculator  | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Simple%20Calculator%20using%20HTML%2C%20CSS%2CJS)
+Age calculator | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Age%20calculator)
 
 ## Virus
 Program | Link
