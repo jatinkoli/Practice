@@ -14,7 +14,6 @@ Simple Calculator  | [.js](https://github.com/jatinkoli/Practice/tree/master/Jav
 Convert Image to PDF  | [.js](https://github.com/jatinkoli/Practice/blob/master/Javascript/Convert%20Image%20to%20PDF/index.html)
 (Short password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Short%20password)%20Generate%20a%20Random%20Password)
 (Long password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Long%20password)%20Generate%20a%20Random%20Password)
-
 ## Virus
 Program | Link
 -- | --
