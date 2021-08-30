@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <mata charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image to PDF File</title>
+</head>
+<body>
+    <input type="file" id="imagefile">
+    <canvas id="=canvas" style="width:  400px;"></canvas>
+    <button id="button">Download PDF</button>
+</boday>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.es.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"></script>
+<script>
+
+var imagefile = document.getElementById("imagefile")
+
+var canvas = document.getElementById("canvas")
+
+var button = document.getElementById("button")
+
+button.onclick = handleImageToPdf
+
+function handleImageToPdf(){
+    html2canvas(canvas,{
+        onrendered:funvtion(canvas){
+            var imgData = canvas.toDataURL('image/png')
+
+            var doc = new jsPDF('p','mm')
+
+            doc.addImage(imgData,'PNG',10,10)
+
+            doc.save("image.pdf")
+        }
+    })
+}
+
+var ctx  = canvas.getcontext('2d')
+
+imagefile.addEventListener("change",handleImage,false)
+
+function handleImage(e){
+    console.log(g)
+
+    var reader = new FileReader()
+
+    reader.onload = function(event){
+
+        var image = new Image()
+
+        image.onload = function(){
+            canvas.width = image.width
+            canvas.height = image.height
+            ctx.drawImage(image,0,0)
+        }
+
+
+        image.src = event.target.result
+
+    }
+
+    reader.readAsDataURL(e.target.files[0])
+
+}
+</script>
+</html>
