@@ -11,6 +11,7 @@ Program | Link
 -- | --
 Background generator | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Background%20generator)
 Simple Calculator  | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Simple%20Calculator%20using%20HTML%2C%20CSS%2CJS)
+Convert Image to PDF  | [.js](https://github.com/jatinkoli/Practice/blob/master/Javascript/Convert%20Image%20to%20PDF/index.html)
 (Short password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Short%20password)%20Generate%20a%20Random%20Password)
 (Long password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Long%20password)%20Generate%20a%20Random%20Password)
 Password Validation | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Password%20Validation)
