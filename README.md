@@ -6,6 +6,7 @@ Program | Link
 Car Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Car%20Game/car%20game.html)
 Snake Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Snake%20Game/Snake%20game.html)
 Doraemon | [.html](https://github.com/jatinkoli/Practice/tree/master/HTML/Doraemon)
+Video & Audio Recorder | [.html](https://github.com/jatinkoli/Practice/tree/master/Javascript/Video%20%26%20Audio%20Recorder)
 ## Javascript
 Program | Link
 -- | --
