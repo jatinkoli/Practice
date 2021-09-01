@@ -6,7 +6,6 @@ Program | Link
 Car Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Car%20Game/car%20game.html)
 Snake Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Snake%20Game/Snake%20game.html)
 Doraemon | [.html](https://github.com/jatinkoli/Practice/tree/master/HTML/Doraemon)
-Video & Audio Recorder | [.html](https://github.com/jatinkoli/Practice/tree/master/Javascript/Video%20%26%20Audio%20Recorder)
 ## Javascript
 Program | Link
 -- | --
@@ -16,6 +15,7 @@ Convert Image to PDF  | [.js](https://github.com/jatinkoli/Practice/blob/master/
 (Short password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Short%20password)%20Generate%20a%20Random%20Password)
 (Long password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Long%20password)%20Generate%20a%20Random%20Password)
 Password Validation | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Password%20Validation)
+Video & Audio Recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Video%20%26%20Audio%20Recorder)
 ## Virus
 Program | Link
 -- | --
