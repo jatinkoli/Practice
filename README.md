@@ -32,6 +32,7 @@ Computer crash | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus/
 Program | Link
 -- | --
 Perspective Playground | [project](https://github.com/jatinkoli/Practice/tree/master/Vue/Perspective%20Playground)
+Vuejs Fundamentals | [project](https://github.com/jatinkoli/Practice/tree/master/Vue/Vuejs%20Fundamentals)
 
 ## Python
 Program | Link
