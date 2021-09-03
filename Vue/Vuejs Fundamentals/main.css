@@ -1,0 +1,18 @@
+body {
+  font-size: 22px;
+  background-color: black;
+  color: gold;
+}
+
+input[type="text"] {
+  margin: 10px 0;
+  display: block;
+}
+
+[v-clock] {
+  display: none;
+}
+
+button {
+    color: black;
+}
