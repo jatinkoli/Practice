@@ -22,6 +22,7 @@ Convert Image to PDF  | [.js](https://github.com/jatinkoli/Practice/blob/master/
 (Long password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Long%20password)%20Generate%20a%20Random%20Password)
 Password Validation | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Password%20Validation)
 Video & Audio Recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Video%20%26%20Audio%20Recorder)
+Calendar | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Calendar)
 ## Virus
 Program | Link
 -- | --
