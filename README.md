@@ -30,6 +30,7 @@ A simple platform game engine | [.js](https://github.com/jatinkoli/Practice/tree
 Clock | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Colck)
 Particles | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Particles)
 screen recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/screen%20recorder)
+Audio recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Audio%20recorder)
 ## Virus
 Program | Link
 -- | --
