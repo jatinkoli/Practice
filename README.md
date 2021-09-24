@@ -3,7 +3,7 @@
 ## HTML
 Program | Link
 -- | --
-Car Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Car%20Game/car%20game.html)
+1 | Car Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Car%20Game/car%20game.html)
 Snake Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Snake%20Game/Snake%20game.html)
 Doraemon | [.html](https://github.com/jatinkoli/Practice/tree/master/HTML/Doraemon)
 Map | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Map/Map.html)
