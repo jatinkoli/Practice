@@ -32,6 +32,7 @@ Particles | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/P
 screen recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/screen%20recorder)
 Audio recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Audio%20recorder)
 To-do List | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/To-do%20List)
+Map | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Map)
 ## Virus
 Program | Link
 -- | --
