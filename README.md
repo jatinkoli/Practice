@@ -6,7 +6,6 @@ Program | Link
 Car Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Car%20Game/car%20game.html)
 Snake Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Snake%20Game/Snake%20game.html)
 Doraemon | [.html](https://github.com/jatinkoli/Practice/tree/master/HTML/Doraemon)
-Map | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Map/Map.html)
 
 ## CSS
 Program | Link
@@ -32,6 +31,7 @@ Particles | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/P
 screen recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/screen%20recorder)
 Audio recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Audio%20recorder)
 To-do List | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/To-do%20List)
+Map | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Map)
 ## Virus
 Program | Link
 -- | --
