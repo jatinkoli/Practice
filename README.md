@@ -32,6 +32,7 @@ screen recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javasc
 Audio recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Audio%20recorder)
 To-do List | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/To-do%20List)
 Map | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Map)
+White Board | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/White%20board)
 ## Virus
 Program | Link
 -- | --
