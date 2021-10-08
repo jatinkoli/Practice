@@ -34,6 +34,7 @@ To-do List | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/
 Map | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Map)
 White Board | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/White%20board)
 Simple Speed Typing | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Simple%20Speed%20Typing)
+3D Gallery | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/3D%20Gallery)
 ## Virus
 Program | Link
 -- | --
