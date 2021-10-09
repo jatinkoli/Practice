@@ -1,5 +1,6 @@
 # Practice
 
+##
 ## HTML
 Program | Link
 -- | --
@@ -7,6 +8,7 @@ Car Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Car%20
 Snake Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Snake%20Game/Snake%20game.html)
 Doraemon | [.html](https://github.com/jatinkoli/Practice/tree/master/HTML/Doraemon)
 
+##
 ## CSS
 Program | Link
 -- | --
@@ -42,12 +44,14 @@ Program | Link
 Shut down virus | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus/love.bat)
 Computer crash | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus/Computer%20crash.bat)
 
+##
 ## Vue js
 Program | Link
 -- | --
 Perspective Playground | [project](https://github.com/jatinkoli/Practice/tree/master/Vue/Perspective%20Playground)
 Vuejs Fundamentals | [project](https://github.com/jatinkoli/Practice/tree/master/Vue/Vuejs%20Fundamentals)
 
+##
 ## Python
 Program | Link
 -- | --
