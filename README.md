@@ -42,6 +42,7 @@ White Board | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript
 Simple Speed Typing | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Simple%20Speed%20Typing)
 3D Gallery | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/3D%20Gallery)
 Tower blocks | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Tower%20blocks)
+Login Page 2 | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/login%20page%202)
 
 ##
 ## Virus
