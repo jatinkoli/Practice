@@ -52,6 +52,10 @@ Shut down virus | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus
 Computer crash | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus/Computer%20crash.bat)
 
 ##
+## C++
+Table | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B)
+
+##
 ## Vue js
 Program | Link
 -- | --
