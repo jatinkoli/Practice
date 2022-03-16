@@ -55,7 +55,7 @@ Computer crash | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus/
 ## C++
 Program | Link
 -- | --
-Table | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B)
+Table | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B/Table )
 
 ##
 ## Vue js
