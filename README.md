@@ -58,6 +58,8 @@ Program | Link
 Table | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B/Table )
 Algorithm that would computer X^N by multiplying x by n times | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B/Algorithm%20that%20would%20computer%20X%5EN%20by%20multiplying%20x%20by%20n%20times)
 Find the smallest of four given int using min() function | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B/Find%20the%20smallest%20of%20four%20given%20int%20using%20min()%20function)
+Sum and average of array elements | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B/Sum%20and%20average%20of%20array%20elements)
+Test wether prime or not | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B/Test%20wether%20prime%20or%20not)
 ##
 ## Vue js
 Program | Link
