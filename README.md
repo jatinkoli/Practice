@@ -56,7 +56,7 @@ Computer crash | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus/
 Program | Link
 -- | --
 Table | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B/Table )
-
+Algorithm that would computer X^N by multiplying x by n times | [.cpp](https://github.com/jatinkoli/Practice/tree/master/C%2B%2B/Algorithm%20that%20would%20computer%20X%5EN%20by%20multiplying%20x%20by%20n%20times)
 ##
 ## Vue js
 Program | Link
