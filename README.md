@@ -16,6 +16,7 @@ Program | Link
 -- | --
 Haver | [.css](https://github.com/jatinkoli/Practice/tree/master/CSS/HAVER)
 Login page | [.css](https://github.com/jatinkoli/Practice/tree/master/CSS/Login%20page)
+Rotate text 360 degrees | [.CSS](https://github.com/jatinkoli/Practice/tree/master/CSS/Rotate%20text%20360%20degrees)
 
 ##
 ## Javascript
