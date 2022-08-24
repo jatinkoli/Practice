@@ -89,3 +89,4 @@ Password checkar | [.py](https://github.com/jatinkoli/Practice/blob/master/pytho
 Face Detection Project | [.py](https://github.com/jatinkoli/Practice/tree/master/python/Face%20Detection%20Project)
 -- | --
 Pong game| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Pong%20game/pong%20game.py)
+-- | --
