@@ -79,3 +79,4 @@ Password-generator | [.py](https://github.com/jatinkoli/Practice/blob/master/pyt
 Pong game| [.py]()
 Numbers, String, list | [.py](https://github.com/jatinkoli/Practice/blob/master/python/numbers%2C%20String%2C%20list/Untitled.ipynb)
 Doraemon | [.py](https://github.com/jatinkoli/Practice/blob/master/python/Doraemon/main.py)
+Calculate Area Of Circle | [.py](https://github.com/jatinkoli/Practice/tree/master/python/Calculate%20Area%20Of%20Circle)
