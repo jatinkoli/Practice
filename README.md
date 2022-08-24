@@ -66,7 +66,9 @@ Test wether prime or not | [.cpp](https://github.com/jatinkoli/Practice/tree/mas
 Program | Link
 -- | --
 Perspective Playground | [project](https://github.com/jatinkoli/Practice/tree/master/Vue/Perspective%20Playground)
+-- | --
 Vuejs Fundamentals | [project](https://github.com/jatinkoli/Practice/tree/master/Vue/Vuejs%20Fundamentals)
+-- | --
 
 ##
 ## Python
