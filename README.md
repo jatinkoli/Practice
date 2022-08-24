@@ -72,6 +72,7 @@ Vuejs Fundamentals | [project](https://github.com/jatinkoli/Practice/tree/master
 ## Python
 Program | Link
 -- | --
+Calculate Area Of Circle | [.py](https://github.com/jatinkoli/Practice/tree/master/python/Calculate%20Area%20Of%20Circle)
 Age calcuatro | [.py](https://github.com/jatinkoli/Practice/blob/master/python/Age%20calcuatro/main.py)
 Face Detection Project | [.py](https://github.com/jatinkoli/Practice/tree/master/python/Face%20Detection%20Project)
 Password checkar | [.py](https://github.com/jatinkoli/Practice/blob/master/python/Password%20checkar/main.py)
@@ -79,5 +80,4 @@ Password-generator | [.py](https://github.com/jatinkoli/Practice/blob/master/pyt
 Pong game| [.py]()
 Numbers, String, list | [.py](https://github.com/jatinkoli/Practice/blob/master/python/numbers%2C%20String%2C%20list/Untitled.ipynb)
 Doraemon | [.py](https://github.com/jatinkoli/Practice/blob/master/python/Doraemon/main.py)
-Calculate Area Of Circle | [.py](https://github.com/jatinkoli/Practice/tree/master/python/Calculate%20Area%20Of%20Circle)
 Convert temperature to fahentite | [.py](https://github.com/jatinkoli/Practice/tree/master/python/Convert%20temperature%20to%20fahentite)
