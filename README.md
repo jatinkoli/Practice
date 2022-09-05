@@ -4,10 +4,6 @@
 ## HTML
 Program | Link
 -- | --
-Table | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Table/Table.html)
--- | --
-Web page | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/WEB%20page/page.html)
--- | --
 Doraemon | [.html](https://github.com/jatinkoli/Practice/tree/master/HTML/Doraemon)
 -- | --
 Car Game | [.html](https://github.com/jatinkoli/Practice/blob/master/HTML/Car%20Game/car%20game.html)
