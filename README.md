@@ -80,7 +80,9 @@ Login Page 2 | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascrip
 Program | Link
 -- | --
 Shut down virus | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus/love.bat)
+-- | --
 Computer crash | [.bat](https://github.com/jatinkoli/Practice/blob/master/Virus/Computer%20crash.bat)
+-- | --
 
 ##
 ## C++
