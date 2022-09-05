@@ -23,27 +23,46 @@ Rotate text 360 degrees | [.CSS](https://github.com/jatinkoli/Practice/tree/mast
 Program | Link
 -- | --
 Background generator | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Background%20generator)
+-- | --
 Simple Calculator  | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Simple%20Calculator%20using%20HTML%2C%20CSS%2CJS)
+-- | --
 Convert Image to PDF  | [.js](https://github.com/jatinkoli/Practice/blob/master/Javascript/Convert%20Image%20to%20PDF/index.html)
+-- | --
 (Short password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Short%20password)%20Generate%20a%20Random%20Password)
+-- | --
 (Long password) Generate a Random Password | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/(Long%20password)%20Generate%20a%20Random%20Password)
+-- | --
 Password Validation | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Password%20Validation)
+-- | --
 Video & Audio Recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Video%20%26%20Audio%20Recorder)
 Calendar | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Calendar)
+-- | --
 Android Browser | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Android%20Browser)
+-- | --
 Login Page | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Login%20page)
+-- | --
 A simple platform game engine | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/A%20simple%20platform%20game%20engine)
+-- | --
 Clock | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Colck)
 Particles | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Particles)
+-- | --
 screen recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/screen%20recorder)
+-- | --
 Audio recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Audio%20recorder)
+-- | --
 To-do List | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/To-do%20List)
+-- | --
 Map | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Map)
 White Board | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/White%20board)
+-- | --
 Simple Speed Typing | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Simple%20Speed%20Typing)
+-- | --
 3D Gallery | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/3D%20Gallery)
+-- | --
 Tower blocks | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Tower%20blocks)
+-- | --
 Login Page 2 | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/login%20page%202)
+-- | --
 
 ##
 ## Virus
