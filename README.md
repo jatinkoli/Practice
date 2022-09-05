@@ -35,6 +35,7 @@ Convert Image to PDF  | [.js](https://github.com/jatinkoli/Practice/blob/master/
 Password Validation | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Password%20Validation)
 -- | --
 Video & Audio Recorder | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Video%20%26%20Audio%20Recorder)
+-- | --
 Calendar | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Calendar)
 -- | --
 Android Browser | [.js](https://github.com/jatinkoli/Practice/tree/master/Javascript/Android%20Browser)
