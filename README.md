@@ -131,3 +131,4 @@ Programbasedontable| [.py](https://github.com/jatinkoli/Practice/blob/master/pyt
 -- | --
 Checkpositiveornegitaveifpositivethencheckitsevenorodd| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Checkpositiveornegitaveifpositivethencheckitsevenorodd/Checkpositiveornegitaveifpositivethencheckitsevenorodd.py)
 -- | --
+Bitwise| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Bitwise/Bitwise.py)
