@@ -132,3 +132,5 @@ Programbasedontable| [.py](https://github.com/jatinkoli/Practice/blob/master/pyt
 Checkpositiveornegitaveifpositivethencheckitsevenorodd| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Checkpositiveornegitaveifpositivethencheckitsevenorodd/Checkpositiveornegitaveifpositivethencheckitsevenorodd.py)
 -- | --
 Bitwise| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Bitwise/Bitwise.py)
+-- | --
+Program for profit and loss using int| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Program%20for%20profit%20and%20loss%20using%20int/Program%20for%20profit%20and%20loss%20using%20int.py)
