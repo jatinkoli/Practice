@@ -106,8 +106,11 @@ Vuejs Fundamentals | [project](https://github.com/jatinkoli/Practice/tree/master
 -- | --
 
 ##
-## Python
+## Python[-- | --
+##         | [.py]()]
 Program | Link
+-- | --
+Write a program to print “Hello World” Message| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20print%20%E2%80%9CHello%20World%E2%80%9D%20Message/Write%20a%20program%20to%20print%20%E2%80%9CHello%20World%E2%80%9D%20Message.py)
 -- | --
 Numbers, String, list | [.py](https://github.com/jatinkoli/Practice/blob/master/python/numbers%2C%20String%2C%20list/Untitled.ipynb)
 -- | --
@@ -136,3 +139,17 @@ Bitwise| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Bitwise/
 Program for profit and loss using int| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Program%20for%20profit%20and%20loss%20using%20int/Program%20for%20profit%20and%20loss%20using%20int.py)
 -- | --
 Program for volume of sphere| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Program%20for%20volume%20of%20sphere/Program%20for%20volume%20of%20sphere.py)
+-- | --
+Write a program to Division of two integer number| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20Division%20of%20two%20integer%20number/Write%20a%20program%20to%20Division%20of%20two%20integer%20number.py)
+-- | --
+Write a program to Multiplication of two integer number| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20Multiplication%20of%20two%20integer%20number/Write%20a%20program%20to%20Multiplication%20of%20two%20integer%20number.py)
+-- | --
+Write a program to addition of two integer number| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20addition%20of%20two%20integer%20number/Write%20a%20program%20to%20addition%20of%20two%20integer%20number.py)
+-- | --
+Write a program to reverse three-digit number| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20reverse%20three-digit%20number/Write%20a%20program%20to%20reverse%20three-digit%20number.py)
+-- | --
+Write a program to reverse two-digit number| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20reverse%20two-digit%20number/Write%20a%20program%20to%20reverse%20two-digit%20number.py)
+-- | --
+Write a program to subtraction of two integer number| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20subtraction%20of%20two%20integer%20number/Write%20a%20program%20to%20subtraction%20of%20two%20integer%20number.py)
+-- | --
+Write a program to swap two number without using third variable| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20swap%20two%20number%20without%20using%20third%20variable/Write%20a%20program%20to%20swap%20two%20number%20without%20using%20third%20variable.py)
