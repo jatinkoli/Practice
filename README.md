@@ -106,8 +106,7 @@ Vuejs Fundamentals | [project](https://github.com/jatinkoli/Practice/tree/master
 -- | --
 
 ##
-## Python[-- | --
-##         | [.py]()]
+## Python
 Program | Link
 -- | --
 Write a program to print “Hello World” Message| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20print%20%E2%80%9CHello%20World%E2%80%9D%20Message/Write%20a%20program%20to%20print%20%E2%80%9CHello%20World%E2%80%9D%20Message.py)
