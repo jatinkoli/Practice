@@ -152,3 +152,8 @@ Write a program to reverse two-digit number| [.py](https://github.com/jatinkoli/
 Write a program to subtraction of two integer number| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20subtraction%20of%20two%20integer%20number/Write%20a%20program%20to%20subtraction%20of%20two%20integer%20number.py)
 -- | --
 Write a program to swap two number without using third variable| [.py](https://github.com/jatinkoli/Practice/blob/master/python/Write%20a%20program%20to%20swap%20two%20number%20without%20using%20third%20variable/Write%20a%20program%20to%20swap%20two%20number%20without%20using%20third%20variable.py)
+
+##
+## Java
+Program | Link
+Program_for _additon_in_java| [.java](https://github.com/jatinkoli/Practice/tree/master/Java/Addition)
