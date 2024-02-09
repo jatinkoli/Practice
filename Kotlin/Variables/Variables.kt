@@ -14,4 +14,7 @@ val birthyear = 2003
 
 println(name)          // Print the value of name
 println(birthyear)     // Print the value of birthyear
+
+val pi = 3.14159265359
+println(pi)
 }
