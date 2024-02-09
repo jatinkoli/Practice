@@ -174,3 +174,5 @@ HELLO WORLD| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/HELL
 -- | --
 Comments| [.kt](https://github.com/jatinkoli/Practice/blob/master/Kotlin/Comments/Comments.kt)
 -- | --
+Variables| [.kt](https://github.com/jatinkoli/Practice/blob/master/Kotlin/Variables/Variables.kt)
+-- | --
