@@ -17,4 +17,11 @@ println(birthyear)     // Print the value of birthyear
 
 val pi = 3.14159265359
 println(pi)
+
+// Display Variables
+
+val firstName = "John "
+val lastName = "Doe"
+val fullName = firstName + lastName
+println(fullName)
 }
