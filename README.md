@@ -166,5 +166,5 @@ Program_for _Subtraction_in_java| [.java](https://github.com/jatinkoli/Practice/
 ## Kotlin
 Program | Link
 -- | --
-Download Kotlin compiler| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin%20compiler)
+Download Kotlin compiler| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/Kotlin%20compiler)
 -- | --
