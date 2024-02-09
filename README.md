@@ -172,4 +172,5 @@ Create and run code using compiler| [.kt](https://github.com/jatinkoli/Practice/
 -- | --
 HELLO WORLD| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/HELLO_WORLD)
 -- | --
-
+Comments| [.kt](https://github.com/jatinkoli/Practice/blob/master/Kotlin/Comments/Comments.kt)
+-- | --
