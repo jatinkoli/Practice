@@ -176,3 +176,5 @@ Comments| [.kt](https://github.com/jatinkoli/Practice/blob/master/Kotlin/Comment
 -- | --
 Variables| [.kt](https://github.com/jatinkoli/Practice/blob/master/Kotlin/Variables/Variables.kt)
 -- | --
+Data_Type| [.kt](https://github.com/jatinkoli/Practice/blob/master/Kotlin/Data%20Types/Data_Types.kt)
+-- | --
