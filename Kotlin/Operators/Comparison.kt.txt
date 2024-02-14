@@ -1,0 +1,61 @@
+	// Comparison Operators
+
+//Equal to	
+	
+	fun main() {  
+  		var x = 53
+  		var y = 30
+  		println(x == y) 
+}
+
+	// returns false because 53 is not equal to 30
+
+//Not equal	
+	
+	fun main() {  
+  		var x = 53
+  		var y = 30
+ 		println(x != y)
+}
+
+	// returns true because 53 is not equal to 30
+
+//Greater than		
+	
+	fun main() {  
+  		var x = 53
+  		var y = 30
+ 		println(x > y) 
+}
+
+	// returns true because 53 is greater than 30
+
+//Less than		
+	
+	fun main() {  
+  		var x = 53
+  		var y = 30
+  		println(x < y)
+}
+
+	 // returns false because 53 is not less than 30
+
+//Greater than or equal to	
+	
+	fun main() {  
+  		var x = 53
+  		var y = 30
+  		println(x >= y) 
+}
+
+	// returns true because 53 is greater than or equal to 30
+
+//Less than or equal to
+
+	fun main() {  
+  		var x = 53
+  		var y = 30
+  		println(x <= y) 
+}
+
+	// returns false because 53 is neither less than or equal to 30
