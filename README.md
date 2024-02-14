@@ -178,3 +178,6 @@ Variables| [.kt](https://github.com/jatinkoli/Practice/blob/master/Kotlin/Variab
 -- | --
 Data_Type| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/Data%20Types)
 -- | --
+Operators| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/Operators)
+-- | --
+
