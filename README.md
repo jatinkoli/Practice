@@ -184,4 +184,6 @@ String| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/String)
 -- | --
 Condition_Statement| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/Condition_Statement)
 -- | --
+When|| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/When)
+-- | --
 
