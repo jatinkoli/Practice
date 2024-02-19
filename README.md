@@ -180,4 +180,8 @@ Data_Type| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/Data%2
 -- | --
 Operators| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/Operators)
 -- | --
+String| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/String)
+-- | --
+Condition_Statement| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/Condition_Statement)
+-- | --
 
