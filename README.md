@@ -186,4 +186,5 @@ Condition_Statement| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kot
 -- | --
 When| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/When)
 -- | --
-
+When| [.kt](https://github.com/jatinkoli/Practice/tree/master/Kotlin/Loop)
+-- | --
