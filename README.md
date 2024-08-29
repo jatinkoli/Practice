@@ -199,4 +199,17 @@ TWO_LED| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduin
 -- | --
 THREE_LED| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
 -- | --
+IF_ELSE| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+-- | --
+RGB| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+-- | --
+FOR_LOOP| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+-- | --
+continue| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+-- | --
+Fading_using_loop| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+-- | --
+Traffic_Light| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+-- | --
+
 
