@@ -203,7 +203,7 @@ IF_ELSE| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduin
 -- | --
 RGB| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/RGB)
 -- | --
-FOR_LOOP| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+FOR_LOOP| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/FOR_LOOP)
 -- | --
 continue| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
 -- | --
