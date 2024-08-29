@@ -201,7 +201,7 @@ THREE_LED| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Ardu
 -- | --
 IF_ELSE| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/IF_ELSE)
 -- | --
-RGB| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+RGB| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/RGB)
 -- | --
 FOR_LOOP| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
 -- | --
