@@ -205,7 +205,7 @@ RGB| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NA
 -- | --
 FOR_LOOP| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/FOR_LOOP)
 -- | --
-continue| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+continue| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/continue)
 -- | --
 Fading_using_loop| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
 -- | --
