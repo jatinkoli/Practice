@@ -207,7 +207,7 @@ FOR_LOOP| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Ardui
 -- | --
 continue| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/continue)
 -- | --
-Fading_using_loop| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
+Fading_using_loop| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/Fading_using_loop)
 -- | --
 Traffic_Light| [.ino](https://github.com/jatinkoli/Practice/tree/master/Arduino/Arduino_NANO/THREE_LEDS)
 -- | --
